@@ -123,11 +123,12 @@ Classification Systems
 
 ## 📫 Connect With Me
 
-* GitHub: (your link)
-* LinkedIn: (add later)
+* GitHub: (https://github.com/Pratikmanure)
+* LinkedIn: (https://www.linkedin.com/in/pratik-manure-3b2736358/)
+* Email: (pratikmanure28@gmail.com)
 
 ---
 
-"Turning data into insights and insights into intelligent systems"
+"Turning data into insights and insights into intelligent systems".
 
 
