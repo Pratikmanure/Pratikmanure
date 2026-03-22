@@ -17,15 +17,80 @@ I'm a learner work at the intersection of Data Analytics, Machine Learning, and 
 
 -- 🚀 Featured Project
 
-### 🌸 AI Flower Predictor (Full-Stack ML App)
+###  🚜 Smart Farmer AI Platform
+🌟 Overview
 
-* Trained a RandomForestClassifier using Scikit-Learn
-* Built a FastAPI backend with a `/predict` API
-* Created a frontend (HTML + JS) for real-time predictions
-* Used Joblib for model serialization
+The Smart Farmer AI Platform is a full-stack AI application designed to simulate a real-world agri-tech startup. It integrates multiple machine learning models and computer vision techniques to assist farmers in making data-driven decisions.
 
-👉 Demonstrates integration of ML + Backend + Frontend
+🚀 Features
+🌱 Crop Recommendation using Classification Models
+📊 Yield Prediction using Regression Analysis
+🦠 Plant Disease Detection using CNN (TensorFlow)
+📡 REST API with Flask for model serving
+💻 Interactive multi-page frontend built with React
 
+🛠 Tech Stack
+Frontend: React.js, React Router, Axios
+Backend: Flask
+ML/DL: Scikit-learn, TensorFlow/Keras
+Image Processing: OpenCV
+
+🧠 Architecture
+User Input → React Frontend → Flask API → ML Models (Classification/Regression/CNN) → Processed Output → UI Display
+
+🎯 Use Case
+Precision Farming
+Smart Agriculture Platforms
+AI-based Farming Advisory Systems
+
+### 📈 Pro-Trade AI Terminal
+🌟 Overview
+
+The Pro-Trade AI Terminal is a modern financial analytics dashboard that provides intelligent investment insights based on user inputs such as capital, risk tolerance, and time horizon.
+
+🚀 Features
+💼 Dynamic Portfolio Allocation based on risk level
+📊 Wealth Projection using compound growth models
+📉 Interactive financial charts with simulated market volatility
+⚡ High-performance backend using FastAPI
+🎨 Professional trading dashboard UI (dark theme)
+
+🛠 Tech Stack
+Frontend: React.js, Recharts
+Backend: FastAPI
+Logic: Financial modeling & mathematical computations
+
+🧠 Architecture
+User Input → React Dashboard → FastAPI Backend → Financial Algorithms → Data Visualization (Charts)
+
+🎯 Use Case
+Investment Advisory Platforms
+Personal Finance Tools
+Trading Dashboards / Robo-Advisors
+
+### 🌸 Smart Flower Prediction API
+🌟 Overview
+
+The Smart Flower Prediction API is a machine learning-based REST API that predicts Iris flower species based on input features such as petal and sepal dimensions.
+
+🚀 Features
+🌼 ML Classification Model trained on Iris dataset
+⚡ FastAPI-based RESTful service for real-time predictions
+🌐 Simple frontend using HTML, CSS, and JavaScript
+🔄 End-to-end pipeline: Model → API → UI
+
+🛠 Tech Stack
+Backend: FastAPI
+ML: Scikit-learn
+Frontend: HTML, CSS, JavaScript
+
+🧠 Architecture
+User Input → Frontend Form → FastAPI Endpoint → ML Model → Predicted Output
+
+🎯 Use Case
+ML Model Deployment Demo
+Educational AI Applications
+Classification Systems
 ---
 
 ## 📊 Data Analytics Skills
@@ -44,7 +109,7 @@ I'm a learner work at the intersection of Data Analytics, Machine Learning, and 
 * ML/AI: Scikit-Learn, TensorFlow , Flask
 * Backend: FastAPI
 * Frontend: HTML, CSS, JS
-* Tools: Git, GitHub
+* Tools: Git, GitHub,Excel,PowerBI,Looker,BigQuery
 
 ---
 
