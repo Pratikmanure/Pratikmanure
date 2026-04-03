@@ -84,6 +84,7 @@ Trading Dashboards / Robo-Advisors
 * Data Analytics: Pandas, NumPy, Matplotlib
 * ML/AI: Scikit-Learn, TensorFlow , Flask
 * Tools: Git, GitHub, MS Excel, PowerBI, Looker, BigQuery
+* Database Management systems (MYSQL)
 
 ---
 
