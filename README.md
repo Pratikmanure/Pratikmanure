@@ -1,15 +1,15 @@
 -- Hi , I'm Pratik 
 
-Data Analyst | Full-Stack ML Developer | AIML Engineer
+Aspiring Data Analyst | Begineer AIML Engineer 
 
-I'm a learner work at the intersection of Data Analytics, Machine Learning, and Software Development, building systems that not only analyze data but also turn it into intelligent applications.
+I'm a learner work at the intersection of Data Analytics, Machine Learning, building systems that not only analyze data but also turn it into intelligent applications.
 
 -- About Me
 
 * 🎓 3rd Year Engineering Student
 * 📊 Skilled in Data Analysis (Python, SQL)
 * 🤖 Building ML & AI-powered applications
-* 💻 Experienced in FastAPI & full-stack integration
+* 💻 Learning Database Systems
 * 📈 Interested in Trading Systems & Data-driven decision making
 * 🌱 Currently improving system design & deployment skills
 
@@ -68,30 +68,6 @@ Investment Advisory Platforms
 Personal Finance Tools
 Trading Dashboards / Robo-Advisors
 
-### 🌸 Smart Flower Prediction API
-🌟 Overview
-
-The Smart Flower Prediction API is a machine learning-based REST API that predicts Iris flower species based on input features such as petal and sepal dimensions.
-
-🚀 Features
-🌼 ML Classification Model trained on Iris dataset
-⚡ FastAPI-based RESTful service for real-time predictions
-🌐 Simple frontend using HTML, CSS, and JavaScript
-🔄 End-to-end pipeline: Model → API → UI
-
-🛠 Tech Stack
-Backend: FastAPI
-ML: Scikit-learn
-Frontend: HTML, CSS, JavaScript
-
-🧠 Architecture
-User Input → Frontend Form → FastAPI Endpoint → ML Model → Predicted Output
-
-🎯 Use Case
-ML Model Deployment Demo
-Educational AI Applications
-Classification Systems
----
 
 ## 📊 Data Analytics Skills
 
@@ -104,12 +80,10 @@ Classification Systems
 
 ## 🛠️ Tech Stack
 
-* Languages: Python, SQL, JavaScript
+* Languages: Python, SQL
 * Data Analytics: Pandas, NumPy, Matplotlib
 * ML/AI: Scikit-Learn, TensorFlow , Flask
-* Backend: FastAPI
-* Frontend: HTML, CSS, JS
-* Tools: Git, GitHub,Excel,PowerBI,Looker,BigQuery
+* Tools: Git, GitHub, MS Excel, PowerBI, Looker, BigQuery
 
 ---
 
@@ -118,6 +92,7 @@ Classification Systems
 * Data-driven problem solving
 * Building scalable ML systems
 * Combining analytics with real-world applications.
+* Building scalable systems which links data analytics + AIML
 
 ---
 
