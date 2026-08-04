@@ -1,11 +1,11 @@
-# Pratik Manure | AI & Data Analytics Engineer
+# Pratik Manure | AI & Machine Learning Engineer | Data Engineer
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vcenter=true&width=700&height=50&lines=Data+Analyst+%7C+AI+%26+ML+Engineer;Quantitative+Trading+%26+Fraud+Analytics;Python+%7C+SQL+%7C+Streamlit+%7C+Power+BI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vcenter=true&width=750&height=50&lines=AI+%26+Machine+Learning+Engineer;Data+Engineer+%7C+Real-Time+Data+Pipelines;Computer+Vision+%7C+Predictive+Analytics+%7C+NLP;Python+%7C+SQL+%7C+PyTorch+%7C+FastAPI+%7C+Streamlit+%7C+Power+BI" alt="Typing SVG" />
 
   <p align="center">
-    <strong>B.Tech AIML Candidate @ JSPM University Pune</strong> • 
+    <strong>B.Tech in Artificial Intelligence & Machine Learning @ JSPM University Pune</strong> • 
     <strong>GPA: 8.62</strong>
   </p>
 
@@ -26,36 +26,43 @@
 
 ---
 
-## 👨‍💻 Professional Profile
+## 👨‍💻 Professional Profile & Engineering Focus
 
-Engineered data-driven analytical platforms, real-time streaming fraud pipelines, and quantitative trading systems. Focused on transforming complex financial and transactional datasets into high-precision intelligence using **Python, SQL, Streamlit, Power BI**, and advanced time-series modeling. 
+Architected predictive machine learning systems, real-time streaming data pipelines, computer vision models, and quantitative trading platforms. Specialized in building end-to-end data engineering infrastructure to convert high-dimensional transactional, spatial, and temporal datasets into actionable decision intelligence.
 
-Demonstrated capacity to architect end-to-end analytical solutions—from real-time market data ingestion via `ccxt`/`yfinance` to SQL windowing anomaly detection and interactive Streamlit execution dashboards.
+Demonstrated engineering experience spanning deep learning fine-tuning (PyTorch, EfficientNet), real-time anomaly detection pipelines (SQL window functions, LightGBM, Streamlit), time-series forecasting (Prophet, ARIMA), NLP topic modeling (VADER, LDA), containerized API deployment (FastAPI, Docker), and enterprise database & ETL reporting pipelines (PostgreSQL, MySQL, Power BI, DAX).
 
-- **Primary Focus**: Quantitative Trading Infrastructure, Real-Time Fraud Detection Pipelines, Financial Data Analytics, Decision Intelligence.
-- **Core Methodology**: Relational Database Design (SQLite/PostgreSQL/MySQL), ETL Data Pipelines, Time-Series Analysis (EMA/RSI/MACD), Risk Scoring, and Business Intelligence Reporting.
-- **Current Objective**: Eager to apply strong analytical foundations, machine learning techniques, and database expertise to high-impact enterprise AI and data engineering roles.
+- **Core Engineering Domains**: Machine Learning Systems, Data Engineering Pipelines, Computer Vision & 3D LiDAR Processing, Financial Fraud Pipelines, Quantitative Trading Backtesting, Natural Language Processing.
+- **Engineering Philosophy**: Scalable data pipelines, rigorous statistical model evaluation, clean relational database design, low-latency containerized inference, and enterprise-grade decision dashboards.
+- **Target Roles**: AI Engineer | Machine Learning Engineer | Data Engineer | MLOps Engineer | Quantitative Developer.
 
 ---
 
 ## 🎓 Education
 
-| Institution | Degree / Specialization | Grade | Timeline | Location |
+| Institution | Degree / Specialization | Grade / GPA | Timeline | Location |
 | :--- | :--- | :--- | :--- | :--- |
-| **JSPM University** | B.Tech in Artificial Intelligence & Machine Learning (AIML) | **GPA: 8.62** | Aug 2023 – May 2027 | Pune, Maharashtra, India |
+| **JSPM University** | B.Tech in Artificial Intelligence & Machine Learning (AIML) | **GPA: 8.62 / 10** | Aug 2023 – May 2027 | Pune, Maharashtra, India |
 | **SGIS** | Higher Secondary (12th Grade) | **74%** | May 2022 – Apr 2023 | Solapur, Maharashtra, India |
 
 ---
 
-## 🛠️ Technical Stack & Core Competencies
+## 🛠️ Comprehensive Technical Stack
 
 <div align="center">
 
-### Languages & Querying
+### 💻 Programming & Querying
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Frameworks & Libraries
+### 🤖 Machine Learning & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-11557C?style=for-the-badge&logo=python&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-0284C7?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 📊 Data Engineering & Processing
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -63,87 +70,134 @@ Demonstrated capacity to architect end-to-end analytical solutions—from real-t
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### Business Intelligence & Tools
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+### 📈 Enterprise Databases & BI
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### Platforms & Environments
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### 🚀 Backend & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-### 🧠 Analytical & Systems Engineering Concepts
-- **Core Expertise**: Database Management Systems (DBMS), Time-Series Analysis, Data Modeling, Data Cleaning & Preprocessing, Business Intelligence (BI), ETL Pipelines, Artificial Intelligence & Machine Learning (AI & ML).
-- **Professional Skills**: Analytical Thinking, Data-Driven Decision Making, Quantitative Problem Solving, Technical Communication.
+### 🧠 Core Concepts & Systems Expertise
+- **AI & Computer Vision**: Multi-Category Classification, EfficientNet, 3D LiDAR Point Cloud Segmentation, Spatial Coordinate Transformers, Camera-to-LiDAR Calibration.
+- **Predictive Analytics & Statistics**: Random Forest, XGBoost, Isolation Forest Anomaly Detection, Prophet Time-Series, Holt-Winters ETS, SHAP Attribution, Hypothesis Testing.
+- **Data Engineering & Databases**: Relational Database Management Systems (DBMS), Advanced SQL Window Functions (`OVER`, `PARTITION BY`, `LAG`), ETL Data Pipelines, VPS Server Deployment.
+- **NLP & Text Mining**: NLTK VADER Sentiment Analysis, 5-Topic LDA Topic Modeling.
 
 ---
 
-## 💼 Verified Internships & Professional Experience
+## 💼 Verified Internships & Experience
 
 ### 1. Google Cloud Data Analytics Intern
 - **Provider**: Google Cloud
 - **Duration**: May 2024 – June 2024
-- **Focus**: Data cleaning, visualization, SQL query optimization, spreadsheet data management, and data-driven decision-making workflows.
+- **Core Focus**: Data cleaning, visualization, SQL query optimization, spreadsheet management, and data-driven decision-making workflows.
 
 ### 2. AICTE AI-ML Intern
 - **Provider**: AICTE (All India Council for Technical Education)
 - **Duration**: May 2025 – June 2025
-- **Focus**: Hands-on experience in machine learning algorithms, dataset preprocessing, model evaluation, and deployment pipelines.
+- **Core Focus**: Hands-on machine learning modeling, dataset preprocessing, model evaluation, and deployment pipelines.
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 Flagship Portfolio Projects
 
-### 📈 1. Algorithmic Trading Backtesting & Analytics Platform
-> **Live Web Application**: [`the-trades-setter.streamlit.app`](https://the-trades-setter.streamlit.app) *(Completed Feb 2026)*
-
-- **Objective & Architecture**: Developed a full-stack quantitative trading analytics platform using **Python, Streamlit, SQL**, and **Plotly**.
-- **Data Engineering**: Engineered automated data pipelines to ingest real-time and historical market data using `ccxt` and `yfinance`.
-- **Strategy & Analytics Engine**: Built custom backtesting modules evaluating technical indicators including Exponential Moving Averages (**EMA**), Relative Strength Index (**RSI**), and Moving Average Convergence Divergence (**MACD**).
-- **Database & Storage**: Implemented relational schema storage (SQLite/PostgreSQL) tracking trade logs, signal events, and strategy metrics.
-- **Visual Intelligence**: Interactive dashboard featuring equity curve visualizer, maximum drawdown calculation, buy/sell signal mapping, and SQL trade performance analysis.
+### 🛡️ 1. ARGUS Defense Core (Multi-Category Vision & 3D LiDAR Segmentation)
+- **Business Problem**: Autonomous navigation and surveillance systems require real-time multi-category object identification combined with precise 3D spatial coordinate estimation to prevent collisions.
+- **Technical Architecture**: PyTorch deep learning pipeline utilizing fine-tuned **EfficientNet** architectures trained on 80,000 images across 200 categories (**96.3% accuracy**). Integrated Open3D spatial coordinate transformers for 3D LiDAR point cloud obstacle boundary tracking and camera-to-LiDAR sensor calibration.
+- **Technologies**: PyTorch, EfficientNet, OpenCV, FastAPI, Open3D, Spatial Coordinate Transformers.
 
 ---
 
-### 🛡️ 2. Real-Time Fraud Detection Analytics Pipeline
-> **Live Web Application**: [`real-time-fraud-detection-analytics.streamlit.app`](https://real-time-fraud-detection-analytics.streamlit.app/) *(Completed Mar 2026)*
-
-- **Objective & Pipeline**: Built a simulated real-time financial transaction monitoring pipeline detecting fraudulent activity across **10,000+ records with 94% accuracy**.
-- **Streaming Generator**: Developed Python background scripts generating continuous streaming transaction data streams (amount, geolocation, merchant category).
-- **SQL Anomaly Detection**: Applied advanced SQL window functions (`OVER`, `PARTITION BY`, `LAG`) to detect anomalous spending behavior and rapid transaction velocity.
-- **Risk Scoring**: Designed Python/SQL risk scoring algorithms categorizing fraud threat vectors into actionable risk tiers.
-- **Command Dashboard**: Deployed a live Streamlit dashboard displaying flagged transactions, risk metrics, and aggregate fraud distribution charts.
+### 💼 2. Deloitte-Inspired Enterprise AI & Analytics Consulting Portfolio
+- **Business Context**: *Independent enterprise analytics consulting case study inspired by Deloitte frameworks.*
+- **Technical Architecture**: Integrated 5 predictive machine learning modules spanning employee retention, audit anomaly detection, revenue forecasting, Glassdoor sentiment NLP, and executive decision scorecards.
+- **Technologies**: Python, Scikit-Learn, Prophet, NLTK, Power BI, SQL, DAX, HTML5, CSS3, JavaScript.
 
 ---
 
-### 🤖 3. Algorithmic Trading Bots (Live VPS Execution)
-> **Infrastructure & Deployment**: *VPS Deployment with Continuous Monitoring*
+### 💳 3. FraudStream Command Center (Real-Time Streaming Fraud Detection)
+> **Live Web Application**: [`real-time-fraud-detection-analytics.streamlit.app`](https://real-time-fraud-detection-analytics.streamlit.app/)
 
-- **Objective & System Design**: Architected and deployed **2 automated trading bots** executing strategies across live markets via VPS infrastructure.
-- **Strategy Engine**: Formulated rule-based quantitative strategies leveraging price action, market structure, and liquidity zone identification.
-- **Risk Management Protocol**: Integrated automated risk management controls including dynamic stop-loss rules, position sizing constraints, and capital allocation safeguards.
-- **Execution & Analytics**: Maintained detailed automated trading logs for trade auditing, execution latency measurement, and systematic performance refinement.
-
----
-
-### 📊 4. Deloitte-Inspired Enterprise AI & Analytics Case Study
-> **Portfolio Case Study**: *Independent enterprise analytics case study inspired by Deloitte consulting methodologies*
-
-- **Strategic Objective**: Executed a comprehensive enterprise data analytics case study evaluating organizational metrics and financial indicators.
-- **Analytics & BI**: Designed executive reporting structures using **Power BI, SQL**, and **Python**, converting unstructured business logs into executive dashboard models.
-- **Methodology**: Applied corporate gap analysis frameworks, data hygiene protocols, and strategic data presentation standards inspired by enterprise management consulting practice.
+- **Business Problem**: Financial institutions require continuous monitoring of streaming transaction data to flag high-risk transaction anomalies before settlement.
+- **Technical Architecture**: Simulated real-time financial transaction pipeline processing **10,000+ records with 94% detection accuracy**. Applied advanced SQL window functions (`OVER`, `PARTITION BY`, `LAG`) to calculate velocity anomalies and dynamic risk scores rendered on a live Streamlit dashboard.
+- **Technologies**: Python, SQL, Streamlit, Plotly, Pandas, NumPy.
 
 ---
 
-## 📊 GitHub Profile Statistics
+### 👥 4. Employee Attrition Prediction Module
+- **Business Problem**: High voluntary employee turnover increases recruitment costs and disrupts operational continuity.
+- **Technical Architecture**: Trained Random Forest and XGBoost ensemble classifiers on employee demographic and performance datasets (**87.4% accuracy, 0.86 ROC-AUC**). Integrated SHAP (SHapley Additive exPlanations) attribution to extract key retention risk drivers.
+- **Technologies**: Python, Scikit-learn, XGBoost, SHAP, SQL, Power BI.
+
+---
+
+### 🔍 5. Audit Quality Anomaly Detection AI
+- **Business Problem**: Regulatory oversight bodies need automated tools to identify audit filings with high risk of deficiency or non-compliance.
+- **Technical Architecture**: Developed an unsupervised **Isolation Forest** anomaly detection algorithm evaluating PCAOB compliance filings (**0.95 ROC-AUC score**). Automatically ranks audit files by deficiency risk probability.
+- **Technologies**: Python, Scikit-learn, Isolation Forest, SQL, Power BI.
+
+---
+
+### 📈 6. Global Revenue FP&A Forecasting Engine
+- **Business Problem**: Strategic financial planning requires accurate multi-year revenue projections and scenario analysis.
+- **Technical Architecture**: Built Facebook **Prophet** time-series forecasting models and Holt-Winters Exponential Smoothing engines projecting revenue growth (**1.58% MAPE**, $85.2B FY28 target scenario).
+- **Technologies**: Python, Prophet, Statsmodels, SQL, Power BI.
+
+---
+
+### 💬 7. Glassdoor Employee Feedback NLP Engine
+- **Business Problem**: Human resources executives lack scalable methods to extract actionable workplace feedback from thousands of unstructured employee reviews.
+- **Technical Architecture**: Processed **46,900+ employee reviews** using NLTK VADER sentiment analysis (**88.1% positive sentiment rating**) and a 5-topic Latent Dirichlet Allocation (LDA) topic model to identify organizational culture drivers.
+- **Technologies**: Python, NLTK VADER, Gensim LDA, SQL, Power BI.
+
+---
+
+### 📊 8. Executive Decision Intelligence Scorecard Platform
+- **Business Problem**: Executive leaders require unified composite metrics that balance artificial intelligence opportunity returns against operational risks.
+- **Technical Architecture**: Formulated the composite **Enterprise AI Opportunity & Operations Index (EAI-OI)**, evaluating enterprise operational health (**70.4/100 composite score, $62.7M projected business value**) backed by custom DAX measure models in Power BI.
+- **Technologies**: Power BI, DAX, Python, SQL, Jupyter.
+
+---
+
+### 📈 9. Quantitative Trading Backtesting & Analytics Platform
+> **Live Web Application**: [`the-trades-setter.streamlit.app`](https://the-trades-setter.streamlit.app)
+
+- **Business Problem**: Quantitative traders need unbiased backtesting tools to validate technical indicator trading strategies on historical and real-time market data.
+- **Technical Architecture**: Full-stack quantitative trading analytics platform built with Python, Streamlit, and Plotly. Fetches market data using `ccxt` and `yfinance`, evaluates EMA, RSI, and MACD indicators, and stores trade logs in relational SQLite/PostgreSQL schemas.
+- **Technologies**: Python, Streamlit, SQL, Plotly, `ccxt`, `yfinance`.
+
+---
+
+### 🌸 10. Flower Prediction API (Containerized Model Serving)
+- **Business Problem**: Deploying deep learning models to production requires lightweight, containerized APIs capable of low-latency inference.
+- **Technical Architecture**: PyTorch computer vision classification model wrapped inside a lightweight **FastAPI** web service and containerized with **Docker** for standardized deployment across cloud infrastructure.
+- **Technologies**: Python, PyTorch, FastAPI, Docker.
+
+---
+
+### 🗄️ 11. Enterprise SQL Repository & Query Benchmarks
+- **Business Problem**: Standardized analytical SQL query design is vital for high-performance database querying and enterprise ETL pipelines.
+- **Technical Architecture**: Repository of advanced SQL queries demonstrating multi-table JOINs, Common Table Expressions (CTEs), window functions (`RANK`, `DENSE_RANK`, `LEAD`, `LAG`), indexing strategies, and database schema design across PostgreSQL and MySQL.
+- **Technologies**: SQL, PostgreSQL, MySQL, SQLite.
+
+---
+
+### 🧩 12. Python DSA & System Design Repository
+- **Business Problem**: Core computer science data structures and algorithmic efficiency are fundamental for building scalable software systems.
+- **Technical Architecture**: Optimized Python implementations of fundamental data structures (trees, graphs, heaps, hash maps) and algorithms (dynamic programming, greedy algorithms, sorting/searching) with time/space complexity benchmarks.
+- **Technologies**: Python, Data Structures & Algorithms (DSA), Complexity Analysis.
+
+---
+
+## 📊 GitHub Profile Statistics & Activity
 
 <div align="center">
 
@@ -167,5 +221,5 @@ Demonstrated capacity to architect end-to-end analytical solutions—from real-t
 - **Location**: Pune, Maharashtra, India
 
 <div align="center">
-  <sub>© 2026 Pratik Manure. Portfolio built with 100% verified credentials strictly referencing official resume documentation.</sub>
+  <sub>© 2026 Pratik Manure. Portfolio built with 100% verified credentials referencing resume and project repositories.</sub>
 </div>
