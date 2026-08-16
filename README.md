@@ -1,312 +1,468 @@
 <div align="center">
 
-<img src="./assets/space-banner.png" alt="Deep space banner" width="100%">
+<img src="./assets/space-banner.svg" alt="Deep space — explore, build, discover" width="100%">
 
-# PRATIK MANURE
+# 👨‍💻 PRATIK MANURE
 
-### AI/ML Engineer · Data Analyst · Python Developer
+### `AI/ML ENGINEER` · `DATA ANALYST` · `PYTHON DEVELOPER` · `CLOUD ENGINEER`
 
-**Turning data into intelligence. Building systems that think, learn & protect.**
+**I build intelligent, data-driven systems — from models and agents to APIs, analytics and cloud-ready infrastructure.**
 
-<p>
-  <a href="https://linkedin.com/in/pratikmanure">LinkedIn</a> ·
-  <a href="https://github.com/pratikmanure">GitHub</a> ·
-  <a href="mailto:pratikmanure@gmail.com">Email</a>
-</p>
+<br>
 
-> *“Somewhere, something incredible is waiting to be known.”*  
-> — **Carl Sagan**
+<a href="https://github.com/pratikmanure"><img src="https://img.shields.io/badge/GitHub-Profile-0f172a?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://linkedin.com/in/pratikmanure"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:pratikmanure@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7c3aed?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </div>
 
 ---
 
-## 🧭 Engineering Focus
+<details open>
+<summary><h2>🧬 01 · WHO I AM</h2></summary>
 
-I am a B.Tech student specializing in **Artificial Intelligence & Machine Learning**, with a strong interest in building practical systems across **AI, data, backend engineering and intelligent automation**.
+<br>
 
-My goal is simple:
+<table>
+<tr>
+<td width="62%">
 
-> **Understand the fundamentals deeply → build useful systems → deploy them → keep learning.**
+### `CURIOUS BY DEFAULT. BUILDING BY CHOICE.`
 
-### 🤖 AI / Machine Learning
-`Machine Learning` `Deep Learning` `NLP` `Agentic AI` `LLMs` `Generative AI` `Computer Vision` `Anomaly Detection` `Explainable AI`
+I'm a **Computer Science (AI & ML)** student focused on turning strong fundamentals into practical engineering systems.
 
-### 📊 Data & Analytics
-`Python` `SQL` `Pandas` `NumPy` `Statistics` `Data Analytics` `Power BI` `Tableau` `Excel` `BigQuery`
+My interests sit at the intersection of:
 
-### ⚙️ Software & Engineering Fundamentals
-`DSA` `OOP` `DBMS` `REST APIs` `FastAPI` `Git` `GitHub` `Docker` `Testing` `Backend Development`
+**Artificial Intelligence × Data × Software Engineering × Cloud**
 
-### ☁️ Cloud, Data & AI Infrastructure
-`AWS` `GCP` `Docker` `CI/CD` `MLOps` `Data Pipelines` `Databricks Basics` `Snowflake Basics`
+I enjoy going beyond a model's accuracy — understanding the problem, designing the system around it, exposing it through an API, deploying it, measuring it, and improving it.
 
-### 🌌 Future Direction
-`Cloud Engineering` `DevOps` `Kubernetes` `Terraform` `System Design` `Distributed Systems` `Advanced MLOps`
+### My north star
 
-> **Cloud Engineering is a deliberate next step in my roadmap — not a claim of current expertise.**
+> **Learn deeply. Build honestly. Measure everything. Keep exploring.**
+
+</td>
+<td width="38%">
+
+### ⚡ QUICK PROFILE
+
+**🎓 B.Tech AI & ML**  
+JSPM University, Pune
+
+**📈 CGPA**  
+`8.29 / 10`
+
+**🧠 Core**  
+ML · DL · NLP · Agentic AI
+
+**📊 Data**  
+Python · SQL · Analytics
+
+**☁️ Cloud**  
+AWS · GCP · Cloud Engineering
+
+**🌌 Beyond tech**  
+Space & Astronomy
+
+</td>
+</tr>
+</table>
+
+</details>
 
 ---
 
-# 🛡️ Current Flagship — ARGUS Defense Core
+<details open>
+<summary><h2>🧰 02 · TECH STACK — CLICK TO EXPLORE</h2></summary>
+
+<br>
+
+> **Tip:** Each category is expandable. I keep this stack grouped by what I actually use, what I am strengthening, and what I am learning next.
+
+<details open>
+<summary><b>🤖 AI / MACHINE LEARNING</b></summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E">
+<img src="https://img.shields.io/badge/Deep%20Learning-111827?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">
+<img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E">
+<img src="https://img.shields.io/badge/Agentic%20AI-111827?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logo=googlecloud&logoColor=4285F4">
+<img src="https://img.shields.io/badge/Computer%20Vision-111827?style=for-the-badge&logo=opencv&logoColor=5C3EE8">
+<img src="https://img.shields.io/badge/Explainable%20AI-111827?style=for-the-badge&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/Anomaly%20Detection-111827?style=for-the-badge&logo=python&logoColor=3776AB">
+
+</details>
+
+<details>
+<summary><b>🐍 PYTHON & DATA</b></summary>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy&theme=dark">
+<br><br>
+<img src="https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=150458">
+<img src="https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=013243">
+<img src="https://img.shields.io/badge/Statistics-0f172a?style=for-the-badge&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/Power%20BI-0f172a?style=for-the-badge&logo=powerbi&logoColor=F2C811">
+<img src="https://img.shields.io/badge/Tableau-0f172a?style=for-the-badge&logo=tableau&logoColor=E97627">
+<img src="https://img.shields.io/badge/Excel-0f172a?style=for-the-badge&logo=microsoftexcel&logoColor=217346">
+<img src="https://img.shields.io/badge/BigQuery-0f172a?style=for-the-badge&logo=googlebigquery&logoColor=4285F4">
+
+</details>
+
+<details>
+<summary><b>⚙️ ENGINEERING FUNDAMENTALS</b></summary>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,docker,fastapi&theme=dark">
+
+<br><br>
+
+`DSA` · `OOP` · `DBMS` · `REST APIs` · `Backend Development` · `Unit Testing` · `Git` · `GitHub`
+
+</details>
+
+<details>
+<summary><b>☁️ CLOUD & DATA INFRASTRUCTURE</b></summary>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker&theme=dark">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AWS-Learning-0f172a?style=for-the-badge&logo=amazonaws&logoColor=FF9900">
+<img src="https://img.shields.io/badge/GCP-Learning-0f172a?style=for-the-badge&logo=googlecloud&logoColor=4285F4">
+<img src="https://img.shields.io/badge/Databricks-Basics-0f172a?style=for-the-badge&logo=databricks&logoColor=FF3621">
+<img src="https://img.shields.io/badge/Snowflake-Basics-0f172a?style=for-the-badge&logo=snowflake&logoColor=29B5E8">
+<img src="https://img.shields.io/badge/MLOps-Learning-0f172a?style=for-the-badge&logo=mlflow&logoColor=0194E2">
+<img src="https://img.shields.io/badge/CI%2FCD-Learning-0f172a?style=for-the-badge&logo=githubactions&logoColor=2088FF">
+<img src="https://img.shields.io/badge/Data%20Pipelines-Learning-0f172a?style=for-the-badge&logo=apacheairflow&logoColor=017CEE">
+
+</details>
+
+<details>
+<summary><b>🚀 NEXT: CLOUD ENGINEERING</b></summary>
+
+<br>
+
+**Learning roadmap**
+
+`Linux` → `Networking` → `AWS/GCP` → `Docker` → `CI/CD` → `Terraform` → `Kubernetes` → `System Design` → `Distributed Systems`
+
+</details>
+
+</details>
+
+---
+
+<details open>
+<summary><h2>🛡️ 03 · CURRENT FLAGSHIP — ARGUS DEFENSE CORE</h2></summary>
+
+<br>
 
 <div align="center">
 
 ### **ARGUS Defense Core (ADC)**
-**A Hierarchical AI-Orchestrated Multi-Agent Cyber Defense Framework**
+#### *A Hierarchical AI-Orchestrated Multi-Agent Cyber Defense Framework*
+
+`DETECT` → `ANALYZE` → `EXPLAIN` → `PLAN` → `RESPOND` → `RECOVER`
 
 </div>
 
-ARGUS is my current final-year research project focused on designing an AI orchestration layer that coordinates specialized security agents for **threat detection, analysis, explanation, defensive planning, response and recovery**.
-
-### The idea
+ARGUS is my current final-year research project: an AI orchestration layer designed to coordinate specialized security agents for intelligent, explainable and increasingly autonomous threat detection and response.
 
 ```text
-                     ┌───────────────────────┐
-                     │   ARGUS ORCHESTRATOR  │
-                     └───────────┬───────────┘
+                    ┌─────────────────────────┐
+                    │    ARGUS ORCHESTRATOR   │
+                    └────────────┬────────────┘
                                  │
              ┌───────────────────┼───────────────────┐
-             ↓                   ↓                   ↓
-       SENTINEL AGENT      MALWARE HUNTER      NETWORK AGENT
-             │                   │                   │
-             └───────────────────┼───────────────────┘
-                                 ↓
-                     ┌───────────────────────┐
-                     │ EXPLAINABILITY ENGINE │
-                     └───────────┬───────────┘
-                                 ↓
-                     ┌───────────────────────┐
-                     │ DEFENSIVE PLANNER /   │
-                     │        LLM            │
-                     └───────────┬───────────┘
-                                 ↓
-                     ┌───────────────────────┐
-                     │ RESPONSE & RECOVERY   │
-                     │        AGENT          │
-                     └───────────────────────┘
+             ▼                   ▼                   ▼
+       ┌───────────┐       ┌──────────────┐   ┌─────────────┐
+       │ SENTINEL  │       │   MALWARE    │   │   NETWORK   │
+       │   AGENT   │       │    HUNTER    │   │    AGENT    │
+       └─────┬─────┘       └──────┬───────┘   └──────┬──────┘
+             └────────────────────┼──────────────────┘
+                                  ▼
+                       ┌─────────────────────┐
+                       │ EXPLAINABILITY      │
+                       │      ENGINE         │
+                       └──────────┬──────────┘
+                                  ▼
+                       ┌─────────────────────┐
+                       │ DEFENSIVE PLANNER   │
+                       │       / LLM         │
+                       └──────────┬──────────┘
+                                  ▼
+                       ┌─────────────────────┐
+                       │ RESPONSE & RECOVERY │
+                       │        AGENT        │
+                       └─────────────────────┘
 ```
 
-### Core capabilities
-
-| Capability | Purpose |
+| Layer | Direction |
 |---|---|
-| 🔎 Threat Detection | Identify suspicious activity from security telemetry |
-| 🧠 Intelligent Analysis | Correlate signals and determine likely threats |
-| 💡 Explainability | Provide understandable reasoning behind decisions |
-| 🗺️ Defensive Planning | Generate structured response strategies |
-| ⚡ Autonomous Response | Coordinate appropriate defensive actions |
-| ♻️ Recovery | Support recovery and post-incident learning |
+| 🧠 AI | ML · DL · NLP · LLMs · Agentic AI · Explainability |
+| 🐍 Backend | Python · FastAPI · APIs |
+| 🕸️ Knowledge | Neo4j · threat relationships |
+| 🖥️ Frontend | React · security dashboard |
+| 🗄️ Data | SQLite · PostgreSQL |
+| 🐳 Deployment | Docker · AWS · GCP · MLOps |
+| 🛡️ Intelligence | MITRE ATT&CK · VirusTotal · VirusShare |
+| 🧪 Research datasets | CICIDS2017 · UNSW-NB15 · NSL-KDD |
 
-### Technology direction
+<a href="https://github.com/pratikmanure"><img src="https://img.shields.io/badge/→%20Explore%20my%20GitHub-ARGUS%20repository-2563eb?style=for-the-badge&logo=github&logoColor=white"></a>
 
-**Backend:** Python · FastAPI · SQLite · PostgreSQL  
-**AI:** Machine Learning · Deep Learning · NLP · LLMs · Agentic AI  
-**Knowledge:** Neo4j · Graph-based threat relationships  
-**Frontend:** React  
-**Deployment:** Docker · AWS · GCP · MLOps  
-**Security Intelligence:** MITRE ATT&CK · VirusTotal · VirusShare
-
-### Research datasets
-
-`CICIDS2017` · `UNSW-NB15` · `NSL-KDD` · `VirusShare` · `VirusTotal` · `MITRE ATT&CK`
-
-> **ARGUS is being developed as a research project. The architecture and implementation will evolve as experiments and evaluations progress.**
+</details>
 
 ---
 
-# 🏆 Selected Engineering Work
-
-> Some of my strongest projects are intentionally private.  
-> Public case studies document the engineering problem, architecture, methodology and outcomes without exposing proprietary source code.
-
-### 🏢 Deloitte — AI / Data Engineering Case Study
-**🔒 Private**
-
-A business-focused project demonstrating data-driven problem solving, analytics and intelligent decision support.
-
-**Focus:** `Python` `SQL` `ETL` `Data Analytics` `Machine Learning`
-
----
-
-### 🧠 FraudStream Command Center
-**🔒 Private**
-
-A real-time fraud detection and monitoring platform designed around ML-based detection, risk scoring, alerts and an interactive command center.
-
-**Focus:** `Python` `ML` `FastAPI` `React` `PostgreSQL` `Data Pipelines`
-
----
-
-### 📈 Algorithmic Trading Systems
-**🔒 Private**
-
-A quantitative trading engineering project involving strategy research, market data processing, backtesting, risk management, signal generation and performance analytics.
-
-**Focus:** `Python` `Pandas` `Backtesting` `TA-Lib` `APIs` `Risk Management`
-
----
-
-# 🎓 Education
-
-### B.Tech — Computer Science (Artificial Intelligence & Machine Learning)
-**JSPM University, Pune** · 2023–2027  
-### **CGPA: 8.29 / 10.00**
-
-Current cumulative academic record after Semester VI.
-
-### Relevant academic strengths
-
-`Deep Learning & Neural Networks — O`  
-`Data Structures using C++ — O`  
-`Machine Learning Techniques — A+`  
-`NLP / Computational Linguistics — A+`  
-`Data Mining Techniques — A+`  
-`Pattern Recognition & Anomaly Detection — A`  
-`Introduction to AI & ML — A+`  
-`Computer Algorithms — A`  
-`DBMS — A`  
-`Computer Networks — A`
-
-### School
-
-**HSC — Science:** 73.83% (443 / 600)  
-**SSC — CBSE:** Strong academic performance with particularly strong Mathematics, Science, English, Hindi and Social Science results.
-
----
-
-# 🏅 Certifications & Credentials
-
-I prefer **fewer credible, relevant credentials over a large collection of generic completion certificates.**
-
-### Priority credential roadmap
-
-| Platform | Target | Why it matters |
-|---|---|---|
-| IBM SkillsBuild | AI Fundamentals | AI foundations |
-| IBM SkillsBuild | Data Fundamentals | Data + analytics foundation |
-| Databricks | Fundamentals Accreditation | Data/AI infrastructure |
-| AWS Skill Builder | Cloud Foundations / training badges | Cloud foundation |
-| Google Cloud Skills Boost | Data Analytics / BigQuery badges | Cloud + data |
-| Microsoft Learn | AI / Azure fundamentals | Future cloud-AI direction |
-
-**Credential policy:** only credentials that are genuinely completed will be displayed here.
-
----
-
-# 📚 Currently Learning
-
-```text
-AI / ML
-├── Advanced Machine Learning
-├── Deep Learning
-├── NLP
-├── Agentic AI
-└── LLM Systems
-
-DATA
-├── Advanced SQL
-├── Data Engineering
-├── Data Pipelines
-├── Databricks
-└── Snowflake
-
-CLOUD
-├── AWS
-├── GCP
-├── Docker
-├── CI/CD
-└── MLOps
-
-NEXT
-├── Cloud Engineering
-├── Kubernetes
-├── Terraform
-├── System Design
-└── Distributed Systems
-```
-
----
-
-# 🧱 My Engineering Philosophy
-
-> **Don't just train the model. Understand the problem. Build the system. Measure the result. Deploy it. Learn from failure.**
-
-I care about the full journey:
-
-```text
-Problem
-   ↓
-Data
-   ↓
-Understanding
-   ↓
-Model
-   ↓
-Evaluation
-   ↓
-System
-   ↓
-Deployment
-   ↓
-Monitoring
-   ↓
-Improvement
-```
-
----
-
-# 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pratikmanure&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikmanure&layout=compact&hide_border=true&theme=transparent" height="165">
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=pratikmanure&hide_border=true&theme=transparent" width="60%">
-
-</div>
-
----
-
-# 🌌 Beyond Code
-
-I have always been fascinated by **space, astronomy and the scale of the universe**.
-
-That curiosity influences the way I approach engineering:
-
-> **The more we learn, the more we realize how much remains to discover.**
-
-For me, technology is another way of exploring the unknown.
-
----
-
-<div align="center">
-
-### Let's build something meaningful.
-
-**AI · Data · Systems · Curiosity**
+<details open>
+<summary><h2>🏆 04 · SELECTED ENGINEERING WORK</h2></summary>
 
 <br>
 
-<a href="https://linkedin.com/in/pratikmanure">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="mailto:pratikmanure@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 Deloitte
+**AI / Data Engineering**
+
+A public repository showcasing practical AI/data engineering work, problem solving and analytics.
+
+`Python` `SQL` `ETL` `Analytics` `ML`
+
+<br>
+
+**→ Public repository**
+
+</td>
+<td width="50%">
+
+### 🧠 FraudStream Command Center
+**Real-Time Fraud Intelligence**
+
+A public repository for fraud detection, risk scoring, alerts, monitoring and an interactive command center.
+
+`Python` `ML` `FastAPI` `React` `PostgreSQL`
+
+<br>
+
+**→ Public repository**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛡️ ARGUS Defense Core
+**Multi-Agent Cyber Defense**
+
+My current flagship research project.
+
+`Python` `LLMs` `Agentic AI` `FastAPI` `Neo4j` `React`
+
+<br>
+
+**→ Public repository**
+
+</td>
+<td width="50%">
+
+### 📈 Algorithmic Trading Systems
+**Quantitative Trading Infrastructure**
+
+A private project covering strategy research, backtesting, risk management, signal generation and performance analytics.
+
+`Python` `Pandas` `Backtesting` `APIs` `Risk`
+
+<br>
+
+**🔒 Private implementation**
+
+</td>
+</tr>
+</table>
+
+> **Note:** The first three projects are public repositories. Only the Algorithmic Trading implementation is private.
+
+</details>
+
+---
+
+<details>
+<summary><h2>🎓 05 · EDUCATION & ACADEMICS</h2></summary>
+
+<br>
+
+### B.Tech — Computer Science (Artificial Intelligence & Machine Learning)
+**JSPM University, Pune · 2023–2027**
+
+<div align="center">
+
+### `8.29 / 10.00`
+**Current CGPA · after Semester VI**
+
+</div>
+
+**Selected academic strengths**
+
+`Data Structures — O` · `AI & ML — A+` · `NLP — A+` · `Data Mining — A+`  
+`Pattern Recognition & Anomaly Detection — A` · `DBMS — A` · `Computer Networks — A`  
+`Deep Learning & Neural Networks — O`
+
+### School
+
+**HSC — Science:** `73.83%`  
+**SSC — CBSE:** `94%`
+
+</details>
+
+---
+
+<details>
+<summary><h2>🏅 06 · CERTIFICATIONS — CREDIBILITY OVER QUANTITY</h2></summary>
+
+<br>
+
+I will only display credentials that I have **actually completed and can verify**.
+
+### Priority roadmap
+
+| Platform | Credential direction | Relevance |
+|---|---|---|
+| IBM SkillsBuild | AI Fundamentals | 🤖 AI foundations |
+| IBM SkillsBuild | Data Fundamentals | 📊 Data + analytics |
+| Databricks | Fundamentals Accreditation | 🧱 Data / AI infrastructure |
+| AWS Skill Builder | Cloud foundations / training badges | ☁️ Cloud |
+| Google Cloud Skills Boost | Data Analytics / BigQuery badges | 📊☁️ Data + cloud |
+| Microsoft Learn | AI / Azure fundamentals | 🤖☁️ AI + cloud |
+
+</details>
+
+---
+
+<details>
+<summary><h2>🗺️ 07 · MY LEARNING ROADMAP</h2></summary>
+
+<br>
+
+```text
+                         CURRENT
+                            │
+             ┌──────────────┼──────────────┐
+             ▼              ▼              ▼
+          AI / ML         DATA        ENGINEERING
+             │              │              │
+          ML / DL          SQL          DSA / OOP
+          NLP              BI           DBMS / APIs
+          Agents           Analytics    Backend
+             │              │              │
+             └──────────────┼──────────────┘
+                            ▼
+                       DEPLOYMENT
+                            │
+                 Docker → AWS → GCP
+                            │
+                            ▼
+                         MLOps
+                            │
+                            ▼
+                   CLOUD ENGINEERING
+                            │
+             Terraform → Kubernetes
+                            │
+                            ▼
+                SYSTEMS / DISTRIBUTED AI
+```
+
+### 🎯 Long-term direction
+
+**AI/ML Engineer + Cloud Engineering**
+
+I want to become someone who can move from:
+
+**problem → data → model → agent → API → infrastructure → deployment → monitoring**
+
+</details>
+
+---
+
+<details>
+<summary><h2>🧠 08 · ENGINEERING PRINCIPLES</h2></summary>
+
+<br>
+
+> **Don't just train the model. Understand the problem. Build the system. Measure the result. Deploy it. Learn from failure.**
+
+```text
+PROBLEM
+   ↓
+DATA
+   ↓
+UNDERSTANDING
+   ↓
+MODEL / AGENT
+   ↓
+EVALUATION
+   ↓
+SYSTEM
+   ↓
+DEPLOYMENT
+   ↓
+MONITORING
+   ↓
+ITERATION
+```
+
+</details>
+
+---
+
+<details open>
+<summary><h2>🌌 09 · BEYOND CODE</h2></summary>
+
+<br>
+
+Space and astronomy have always fascinated me.
+
+The universe is a reminder that **curiosity has no upper bound**.
+
+> *“Somewhere, something incredible is waiting to be known.”*  
+> — **Carl Sagan**
+
+That is the mindset I bring to engineering too:
+
+**Explore what is unknown. Understand what is complex. Build what is useful.**
+
+</details>
+
+---
+
+<div align="center">
+
+## 🌠 BUILDING IN PUBLIC. LEARNING WITHOUT A CEILING.
+
+### **AI · DATA · SYSTEMS · CLOUD · CURIOSITY**
+
+<br>
+
 <a href="https://github.com/pratikmanure">
-  <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="https://linkedin.com/in/pratikmanure">
+<img src="https://img.shields.io/badge/CONNECT-LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <br><br>
 
-*"Somewhere, something incredible is waiting to be known."*  
-**— Carl Sagan**
+`Made with curiosity • Built with Python • Inspired by the universe`
 
 </div>
