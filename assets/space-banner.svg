@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" width="1600" height="520">
+<defs>
+  <radialGradient id="bg" cx="70%" cy="35%" r="85%">
+    <stop offset="0" stop-color="#172554"/>
+    <stop offset=".38" stop-color="#07152f"/>
+    <stop offset="1" stop-color="#020617"/>
+  </radialGradient>
+  <radialGradient id="neb" cx="50%" cy="50%" r="50%">
+    <stop offset="0" stop-color="#7c3aed" stop-opacity=".42"/>
+    <stop offset=".55" stop-color="#2563eb" stop-opacity=".16"/>
+    <stop offset="1" stop-color="#000" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="planet" x1="0" x2="1">
+    <stop offset="0" stop-color="#0ea5e9"/>
+    <stop offset=".45" stop-color="#334155"/>
+    <stop offset="1" stop-color="#020617"/>
+  </linearGradient>
+  <linearGradient id="text" x1="0" x2="1">
+    <stop offset="0" stop-color="#67e8f9"/>
+    <stop offset=".5" stop-color="#c4b5fd"/>
+    <stop offset="1" stop-color="#f0abfc"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1600" height="520" fill="url(#bg)"/>
+<ellipse cx="1170" cy="180" rx="600" ry="230" fill="url(#neb)"/>
+<!-- stars -->
+<g fill="#fff">
+  <circle cx="90" cy="75" r="2"/><circle cx="175" cy="150" r="1.5"/><circle cx="280" cy="62" r="2"/>
+  <circle cx="390" cy="128" r="1.5"/><circle cx="510" cy="54" r="2"/><circle cx="630" cy="100" r="1"/>
+  <circle cx="770" cy="44" r="1.7"/><circle cx="920" cy="90" r="1.2"/><circle cx="1040" cy="45" r="2"/>
+  <circle cx="1190" cy="105" r="1.4"/><circle cx="1320" cy="60" r="1.8"/><circle cx="1480" cy="130" r="1.3"/>
+  <circle cx="1550" cy="55" r="2"/><circle cx="80" cy="265" r="1.4"/><circle cx="300" cy="220" r="1.2"/>
+  <circle cx="520" cy="250" r="1.7"/><circle cx="700" cy="210" r="1.2"/><circle cx="910" cy="270" r="1.5"/>
+  <circle cx="1280" cy="260" r="1.5"/><circle cx="1450" cy="310" r="1.8"/>
+</g>
+<!-- galaxy -->
+<g transform="translate(1180 145) rotate(-18)">
+  <ellipse rx="250" ry="62" fill="none" stroke="#93c5fd" stroke-opacity=".35" stroke-width="18"/>
+  <ellipse rx="205" ry="48" fill="none" stroke="#c4b5fd" stroke-opacity=".35" stroke-width="10"/>
+  <circle r="42" fill="#f8fafc" filter="url(#glow)"/>
+  <circle r="15" fill="#fef3c7"/>
+</g>
+<!-- planet horizon -->
+<circle cx="1340" cy="540" r="300" fill="url(#planet)" opacity=".9"/>
+<ellipse cx="1340" cy="475" rx="430" ry="68" fill="none" stroke="#38bdf8" stroke-opacity=".28" stroke-width="9"/>
+<!-- astronaut silhouette -->
+<g transform="translate(1030 215)">
+  <circle cx="0" cy="-60" r="28" fill="#020617" stroke="#cbd5e1" stroke-width="3"/>
+  <rect x="-30" y="-35" width="60" height="105" rx="22" fill="#020617" stroke="#cbd5e1" stroke-width="3"/>
+  <line x1="-25" y1="-10" x2="-55" y2="35" stroke="#cbd5e1" stroke-width="9"/>
+  <line x1="25" y1="-10" x2="55" y2="35" stroke="#cbd5e1" stroke-width="9"/>
+  <line x1="-13" y1="65" x2="-35" y2="120" stroke="#cbd5e1" stroke-width="10"/>
+  <line x1="13" y1="65" x2="35" y2="120" stroke="#cbd5e1" stroke-width="10"/>
+  <rect x="-22" y="-56" width="44" height="25" rx="9" fill="#0f172a" stroke="#67e8f9" stroke-width="2"/>
+</g>
+<!-- observatory -->
+<g transform="translate(1450 350)" stroke="#94a3b8" stroke-width="4" fill="none">
+  <path d="M0 105 L30 0 L60 105 Z"/><path d="M18 45 L50 25 L88 42 L52 57 Z"/>
+  <line x1="48" y1="55" x2="105" y2="15"/><circle cx="106" cy="14" r="6"/>
+</g>
+<!-- title -->
+<text x="90" y="335" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="700" fill="url(#text)">EXPLORE • BUILD • DISCOVER</text>
+<text x="92" y="382" font-family="Georgia,serif" font-size="25" fill="#cbd5e1">The universe is vast. Curiosity should be, too.</text>
+<text x="92" y="425" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="4" fill="#67e8f9">AI • DATA • SYSTEMS • SPACE</text>
+</svg>
