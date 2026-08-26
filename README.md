@@ -338,12 +338,13 @@ I will only display credentials that I have **actually completed and can verify*
 
 | Platform | Credential direction | Relevance |
 |---|---|---|
-| IBM SkillsBuild | AI Fundamentals | 🤖 AI foundations |
-| IBM SkillsBuild | Data Fundamentals | 📊 Data + analytics |
-| Databricks | Fundamentals Accreditation | 🧱 Data / AI infrastructure |
-| AWS Skill Builder | Cloud foundations / training badges | ☁️ Cloud |
+| Google Cloud | Machine Learning Specialization | 🤖 Machine Learning Specialization |
+| Google Cloud | Data Scientist Learning Path | 📊 Data + analytics + AI + ML|
+| Innomatics Research Labs | World of AI with Machine Learning | 🧱 Data / AI infrastructure |
+| AICTE x SS&C Blue Prism | Robotic Process Intelligent Automation  | 🤖 Robotics |
 | Google Cloud Skills Boost | Data Analytics / BigQuery badges | 📊☁️ Data + cloud |
-| Microsoft Learn | AI / Azure fundamentals | 🤖☁️ AI + cloud |
+| TCS ION | AI Foundation / Gen AI Fundamentals | 🤖☁️ AI + DL |
+| AICTE x Eduskills | Machine Learning and Data Science | ML and DS  
 
 </details>
 
